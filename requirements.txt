@@ -1,0 +1,13 @@
+PyQt5
+qimage2ndarray
+GPUtil
+scikit-learn
+scikit-image
+lmdb
+imagesize
+tensorflow
+opencv-python
+torch
+torchvision
+tqdm
+jpeg2dct

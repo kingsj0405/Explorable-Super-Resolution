@@ -2,7 +2,7 @@
   "name": "Explorable_SR"
   , "model": "srragan"
   , "scale": 4
-  , "gpu_ids": [0]
+  , "gpu_ids": [0,1,2,3]
   , "use_tb_logger": 0 //Set to 1 for logging the loss values of the Z-optimization processes using Tensorboard
   , "path": {
       "root": "/media/ybahat/data/projects/SRGAN" // Update path shared by both models below
